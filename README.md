@@ -4,8 +4,8 @@
 
 - Week 1 :
 - Week 2 : 
--          - Lab 1 : ./https://github.com/Lim-Calculus/Python-Basics-with-numpy 
-           - Lab 2 : ./https://github.com/Lim-Calculus/Logistic-Regression-with-a-Neural-Network-Mindset
+-          - Lab 1 : (https://github.com/Lim-Calculus/Python-Basics-with-numpy) 
+           - Lab 2 : (https://github.com/Lim-Calculus/Logistic-Regression-with-a-Neural-Network-Mindset)
            
 - Week 3 : 
 -          - Lab 1 : ./https://github.com/Lim-Calculus/Deep-Learning-Specialization-
