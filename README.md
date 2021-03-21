@@ -1,6 +1,8 @@
-# Deep-Learning-Specialization 
+# Deep-Learning-Specialization
+## Lim Jing Bin
 
-# Course-1-:-Neural Network and Deep Learning
+### Course-1-:-Neural Network and Deep Learning
+
 
 - Week 1 :
 - Week 2 : 
