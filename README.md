@@ -2,7 +2,7 @@
 ## Lim Jing Bin
 
 ### Course-1-:-Neural Network and Deep Learning
-
+https://www.coursera.org/account/accomplishments/verify/FG4WFTRGW7N6
 
 - Week 1 :
 - Week 2 : 
